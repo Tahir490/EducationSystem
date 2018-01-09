@@ -1,0 +1,206 @@
+
+	
+	body {
+    background-color: #FFFFFF;
+} 
+.name{
+	color:red;
+}
+.fname{
+	color:red;
+}
+.address{
+	color:red;
+}
+.city{
+	color:red;
+}
+.email{
+	color:red;
+}
+.mobile{
+	color:red;
+	}
+	.name1{
+	color:red;
+}
+.fname1{
+	color:red;
+}
+.address1{
+	color:red;
+}
+.city1{
+	color:red;
+}
+.email1{
+	color:red;
+}
+.mobile1{
+	color:red;
+	
+}
+	.name11{
+	color:red;
+}
+.fname11{
+	color:red;
+}
+.address11{
+	color:red;
+}
+.city11{
+	color:red;
+}
+.email11{
+	color:red;
+}
+.mobile11{
+	color:red;
+	
+}
+.heading3{
+	border-style:groove;
+	text-align:center;
+	color:#848484;
+	border-width: 10px;
+	margin: auto;
+    width: 80%;
+	padding: 10px;
+	}
+.right {
+    position: absolute;
+    left: 200px;
+    width: 900px;
+    border:3px solid #8AC007;
+    padding: 20px;
+	margin:10px;
+}
+
+#dropdown{
+	margin-top: 230px;
+	left: 450px;
+}
+#dropdown1{
+	margin-top: 230px;
+	left: 450px;
+}
+#dropdown2{
+	margin-top: 230px;
+	left: 450px;
+}
+#dropdown3{
+	margin-top: 230px;
+	left: 450px;
+}
+#dropdown4{
+	margin-top: 230px;
+	left: 450px;
+}
+#dropdown5{
+	margin-top: 230px;
+	left: 450px;
+}
+#dropdown6{
+	margin-top: 230px;
+	left: 450px;
+}
+#option{
+	width:100px;
+}
+.input{
+	width:400px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 105px;
+}
+.input1{
+	width:510px;
+}
+#input2{
+	width:510px;
+}
+#input3{
+	width:200px;
+}
+#input4{
+	width:150px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 200px;
+}
+#input5{
+	width:120px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 350px;
+}
+#option1{
+	width:100px;
+}
+.input11{
+	width:400px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 105px;
+}
+.input12{
+	width:510px;
+}
+#input22{
+	width:510px;
+}
+#input33{
+	width:200px;
+}
+#input44{
+	width:150px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 200px;
+}
+#input55{
+	width:120px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 350px;
+}
+#option11{
+	width:100px;
+}
+.input111{
+	width:400px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 105px;
+}
+.input122{
+	width:510px;
+}
+#input222{
+	width:510px;
+}
+#input333{
+	width:200px;
+}
+#input444{
+	width:150px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 200px;
+}
+#input555{
+	width:120px;
+	margin-top:-35px;
+	
+	position: relative;
+    left: 350px;
+}
